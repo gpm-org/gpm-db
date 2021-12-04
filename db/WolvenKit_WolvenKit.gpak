@@ -13,5 +13,7 @@
   "License": "GNU General Public License v3.0",
   "Id": "wolvenkit/wolvenkit",
   "Owner": "wolvenkit",
-  "Name": "wolvenkit"
+  "Name": "wolvenkit",
+  "AssetIndex": 1,
+  "AssetNamePattern" : "*.zip" 
 }
