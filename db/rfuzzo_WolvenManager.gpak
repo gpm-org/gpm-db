@@ -1,0 +1,11 @@
+{
+  "Url": "https://github.com/rfuzzo/WolvenManager.git",
+  "Identifier": "",
+  "Topics": [],
+  "Description": "A simple modding tool for CyberPunk 2077.",
+  "Homepage": "",
+  "License": "MIT License",
+  "Id": "rfuzzo/wolvenmanager",
+  "Owner": "rfuzzo",
+  "Name": "wolvenmanager"
+}

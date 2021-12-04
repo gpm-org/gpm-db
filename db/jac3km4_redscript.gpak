@@ -1,0 +1,15 @@
+{
+  "Url": "https://github.com/jac3km4/redscript.git",
+  "Identifier": "",
+  "Topics": [
+    "language",
+    "compiler",
+    "decompiler"
+  ],
+  "Description": "Compiler/decompiler toolkit for redscript",
+  "Homepage": "",
+  "License": "MIT License",
+  "Id": "jac3km4/redscript",
+  "Owner": "jac3km4",
+  "Name": "redscript"
+}
