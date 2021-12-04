@@ -4,5 +4,8 @@
   "Topics": [],
   "Id": "rodikh/betterlootmarkers-cyberpunk-mod",
   "Owner": "rodikh",
-  "Name": "betterlootmarkers-cyberpunk-mod"
+  "Name": "betterlootmarkers-cyberpunk-mod",
+  "Dependencies": [
+    "cyberenginetweaks"
+  ]
 }
