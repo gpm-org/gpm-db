@@ -1,0 +1,18 @@
+{
+  "Url": "https://github.com/WolvenKit/WolvenKit.git",
+  "Identifier": "test2",
+  "Topics": [
+    "witcher-3",
+    "game",
+    "modding-tools",
+    "hacktoberfest",
+    "cyberpunk2077"
+  ],
+  "Description": "Mod editor/creator for RED Engine games. The point is to have an all in one tool for creating mods for the games made with the engine.",
+  "Homepage": "http://redmodding.org/",
+  "License": "GNU General Public License v3.0",
+  "Id": "wolvenkit/wolvenkit",
+  "Owner": "wolvenkit",
+  "Name": "wolvenkit",
+  "AssetIndex": 0
+}
