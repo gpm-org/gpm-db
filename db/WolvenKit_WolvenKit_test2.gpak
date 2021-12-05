@@ -1,5 +1,6 @@
 {
   "Url": "https://github.com/WolvenKit/WolvenKit.git",
+  "Identifier": "test2",
   "AssetIndex": 0,
   "Dependencies": [
     "jac3km4/redscript"
