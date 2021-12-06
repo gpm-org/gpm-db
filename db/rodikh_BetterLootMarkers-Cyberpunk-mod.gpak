@@ -6,6 +6,8 @@
   "Owner": "rodikh",
   "Name": "betterlootmarkers-cyberpunk-mod",
   "Dependencies": [
-    "cyberenginetweaks"
+    {
+      "Id": "cyberenginetweaks"
+    }
   ]
 }

@@ -3,6 +3,12 @@
   "Identifier": "test2",
   "AssetIndex": 0,
   "Dependencies": [
-    "jac3km4/redscript"
+    {
+      "Id": "wolvenkit/wolvenkit/test1",
+      "Version": "8.4.2"
+    },
+    {
+      "Id": "jac3km4/redscript"
+    }
   ]
 }

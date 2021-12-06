@@ -8,6 +8,9 @@
   "Owner": "jac3km4",
   "Name": "flexy-reds",
   "Dependencies": [
-    "redscript"
+    {
+      "Id": "jac3km4/redscript",
+      "Version": "v0.4.0-RC1"
+    }
   ]
 }
