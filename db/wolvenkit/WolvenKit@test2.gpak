@@ -1,0 +1,14 @@
+{
+  "url": "https://github.com/WolvenKit/WolvenKit.git",
+  "identifier": "test2",
+  "assetIndex": 0,
+  "dependencies": [
+    {
+      "id": "wolvenkit/wolvenkit/test1",
+      "version": "8.4.2"
+    },
+    {
+      "id": "jac3km4/redscript"
+    }
+  ]
+}

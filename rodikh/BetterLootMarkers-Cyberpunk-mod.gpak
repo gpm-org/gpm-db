@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/rodikh/BetterLootMarkers-Cyberpunk-mod.git",
+  "identifier": "",
+  "topics": [],
+  "dependencies": [
+    {
+      "id": "cyberenginetweaks"
+    }
+  ]
+}

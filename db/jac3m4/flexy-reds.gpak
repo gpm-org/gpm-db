@@ -1,0 +1,12 @@
+{
+  "url": "https://github.com/jac3km4/flexy-reds.git",
+  "topics": [],
+  "description": "Flexbox UI lib for redscript",
+  "license": "MIT License",
+  "dependencies": [
+    {
+      "id": "jac3km4/redscript",
+      "version": "v0.4.0-RC1"
+    }
+  ]
+}
