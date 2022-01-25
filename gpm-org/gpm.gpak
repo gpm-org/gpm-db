@@ -1,0 +1,6 @@
+{
+  "url": "https://github.com/gpm-org/gpm.Installer.git",
+  "topics": [],
+  "description": "A Github package manager for GitHub. Supports local installations, updates and management of releases published on GitHub.",
+  "homepage": ""
+}
