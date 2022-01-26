@@ -1,6 +1,5 @@
 {
   "url": "https://github.com/WolvenKit/WolvenKit.git",
-  "identifier": "",
   "topics": [
     "witcher-3",
     "game",
@@ -10,7 +9,5 @@
   ],
   "description": "Mod editor/creator for RED Engine games. The point is to have an all in one tool for creating mods for the games made with the engine.",
   "homepage": "http://redmodding.org/",
-  "license": "GNU General Public License v3.0",
-  "assetIndex": 1,
-  "assetNamePattern" : "*.zip" 
+  "license": "GNU General Public License v3.0"
 }
