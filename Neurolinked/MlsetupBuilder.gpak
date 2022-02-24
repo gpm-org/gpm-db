@@ -3,5 +3,6 @@
   "topics": [],
   "description": "Cyberpunk 2077 modding tool  to build json version of .mlsetup files",
   "homepage": "",
-  "license": "GNU General Public License v3.0"
+  "license": "GNU General Public License v3.0",
+  "assetNamePattern" : "*.zip"
 }
